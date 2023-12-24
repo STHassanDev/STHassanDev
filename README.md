@@ -1,1 +1,3 @@
-# Hello I'm Siaka 
+# Siaka Traore
+
+**`Results Oriented Software Developer`**
