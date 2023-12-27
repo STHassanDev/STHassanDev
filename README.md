@@ -1,6 +1,6 @@
 # Siaka Traore
 
-**`Results Oriented Software Developer`**
+## Results Oriented Software Developer
 
 ---
 
