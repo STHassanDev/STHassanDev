@@ -2,6 +2,9 @@
 
 ## Results Oriented Software Developer
 
+* 🌍  I'm based in New York
+* ✉️  You can contact me at [SiakaHassanTraore@gmail.com](mailto:SiakaHassanTraore@gmail.com)
+
 ---
 
 ### Languages and Tools
@@ -22,6 +25,6 @@
 
 ### My Most Recent Projects 
 -LinkSwift (Single Page Url Shortener Application)
-<img src="https://github.com/STHassanDev/STHassanDev/blob/main/Screenshot%202023-12-26%20215719.png" />
+<img src="https://github.com/STHassanDev/STHassanDev/blob/main/Screenshot%202023-12-26%20215719.png" style="border-radius:25px" />
 
 
