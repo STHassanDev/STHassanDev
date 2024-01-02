@@ -24,6 +24,6 @@
 #
 
 ### My Most Recent Projects 
-[![LinkSwift (Single Page URL Shortener](https://github.com/STHassanDev/STHassanDev/blob/main/Screenshot%202023-12-26%20215719.png)](https://www.youtube.com/watch?v=S1nJPemTgzk)
+
 <!-- END YOUTUBE-CARDS -->
 
