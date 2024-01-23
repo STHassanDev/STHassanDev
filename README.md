@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [SiakaHassanTraore@gmail.com](mailto:SiakaHassanTraore@gmail.com)
-* 🚀  I'm currently working on [Future Project]()
+* 🚀  I'm currently working on [StockSight](https://github.com/STHassanDev/StockSight)
 
 ---
 
